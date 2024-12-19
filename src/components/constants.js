@@ -1,9 +1,9 @@
 // Image URLs for the website
 export const IMAGES = {
   HERO: [
-    'https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1920&q=80',
-    'https://images.unsplash.com/photo-1518005068251-37900150dfca?auto=format&fit=crop&w=1920&q=80',
-    'https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1920&q=80'
+    'https://images.unsplash.com/photo-1577451581377-523b0a03bb6b?auto=format&fit=crop&w=1920&q=80',
+    'https://images.unsplash.com/photo-1577451581039-032debfb47b6?auto=format&fit=crop&w=1920&q=80',
+    'https://images.unsplash.com/photo-1577451581538-67043aba1116?auto=format&fit=crop&w=1920&q=80'
   ],
   PRODUCTS: {
     BOX_PROFILE: 'https://images.unsplash.com/photo-1621951753015-740c699ab970?auto=format&fit=crop&w=800&q=80',
