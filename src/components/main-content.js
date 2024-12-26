@@ -38,14 +38,14 @@ export function mainContentTemplate() {
             <p class="mb-6">
               At Juja Mabati Factory, we take pride in delivering top-quality roofing solutions that stand the test of time. As one of Kenya's leading roofing manufacturers, we specialize in providing durable, reliable, and aesthetically pleasing roofing materials for both residential and commercial projects.
             </p> 
-            <p>Our extensive range of roofing sheets, including pre-painted, galvanized, and aluminum options, ensures that we meet the diverse needs of our customers. With a commitment to excellence and unmatched craftsmanship, Juja Mabati Factory has earned its reputation as a trusted name in the roofing
+            <p class="mb-6">Our extensive range of roofing sheets, including pre-painted, galvanized, and aluminum options, ensures that we meet the diverse needs of our customers. With a commitment to excellence and unmatched craftsmanship, Juja Mabati Factory has earned its reputation as a trusted name in the roofing
               industry across Kenya.
             </p>
-            <p>
+            <p class="mb-6">
               With state-of-the-art manufacturing facilities and a team of skilled professionals, we ensure that every 
               roofing sheet meets the highest standards of quality and durability.
             </p>
-            <p>
+            <p class="mb-6">
             Whether you're building a new home, renovating an existing structure, or undertaking a large-scale commercial project, 
             we provide the best roofing solutions that guarantee long-lasting protection and value for your property.
             </p>
