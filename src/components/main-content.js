@@ -42,8 +42,7 @@ export function mainContentTemplate() {
               industry across Kenya.
             </p>
             <p class="mb-6">
-              With state-of-the-art manufacturing facilities and a team of skilled professionals, we ensure that every 
-              roofing sheet meets the highest standards of quality and durability.
+              With state-of-the-art manufacturing facilities and a team of skilled professionals, we ensure that every roofing sheet meets the highest standards of quality and durability.
             </p>
             <p class="mb-6">
             Whether you're building a new home, renovating an existing structure, or undertaking a large-scale commercial project, 
