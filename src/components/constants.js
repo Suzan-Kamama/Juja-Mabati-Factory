@@ -8,6 +8,6 @@ export const IMAGES = {
   PRODUCTS: {
     BOX_PROFILE: 'https://github.com/Suzan-Kamama/Juja-Mabati-Factory/blob/main/src/components/Box%20Profile%20Roofing%20Sheets.jpeg?raw=true',
     CORRUGATED: 'https://raw.githubusercontent.com/Suzan-Kamama/Juja-Mabati-Factory/refs/heads/main/src/components/Corrugated%20Iron%20Sheets.webp',
-    TILE: 'https://images.unsplash.com/photo-1632759145351-1d592919f522?auto=format&fit=crop&w=800&q=80'
+    TILE: 'https://github.com/Suzan-Kamama/Juja-Mabati-Factory/blob/main/src/components/Tile%20Roofing%20Sheets.jpg?raw=true'
   }
 };
