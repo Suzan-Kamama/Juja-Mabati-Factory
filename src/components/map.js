@@ -1,4 +1,4 @@
-// Function to initialize the map
+// Initialize the map
 function initMap() {
   // Check if Leaflet is loaded
   if (typeof L === 'undefined') {
@@ -13,7 +13,7 @@ function initMap() {
     return;
   }
 
-  // Initialize the map
+  // Create the map
   const map = L.map('map').setView([-1.1022, 37.0128], 15); // Traqo Lounge Coordinates
 
   // Add OpenStreetMap tile layer
@@ -30,7 +30,5 @@ function initMap() {
     .openPopup();
 }
 
-// Run map initialization only when DOM is fully loaded
-document.addEventListener('DOMContentLoaded', () => {
-  initMap();
-});
+// Ensure map initializes after DOM is fully loaded
+document.addEventListener('DOMContentLoaded', initMap);
