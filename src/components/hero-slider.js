@@ -8,13 +8,15 @@ export function initHeroSlider() {
     modules: [Pagination, Autoplay],
     pagination: {
       el: '.swiper-pagination',
-      clickable: true
+      clickable: true,
     },
     autoplay: {
       delay: 5000,
       disableOnInteraction: false
     },
-    loop: true
+    loop: true,
+    autoHeight: false, // Ensures consistent height
+    spaceBetween: 0,  // Ensures no gaps between slides
   });
 }
 
