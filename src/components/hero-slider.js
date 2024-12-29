@@ -1,9 +1,9 @@
-import Swiper from 'swiper';
-import { Pagination, Autoplay } from 'swiper/modules';
-import 'swiper/css';
-import 'swiper/css/pagination';
+//import Swiper from 'swiper';
+//import { Pagination, Autoplay } from 'swiper/modules';
+//import 'swiper/css';
+//import 'swiper/css/pagination';
 
-export function initHeroSlider() {
+//export function initHeroSlider() {
   new Swiper('.hero-slider', {
     modules: [Pagination, Autoplay],
     pagination: {
