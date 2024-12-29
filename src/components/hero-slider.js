@@ -15,13 +15,6 @@ export function initHeroSlider() {
       disableOnInteraction: false
     },
     loop: true,
-    on: {
-    slideChangeTransitionEnd: () => {
-      console.log('Slide transition completed');
-    },
-    resize: () => {
-      console.log('Swiper resized');
-    },
   });
 }
 
