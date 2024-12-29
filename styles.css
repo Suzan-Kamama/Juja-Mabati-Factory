@@ -106,3 +106,7 @@ app {
   margin: 0 auto;
   padding: 0 15px; /* Optional padding for inner spacing */
 }
+
+.swiper-container {
+  overflow: hidden;
+}
