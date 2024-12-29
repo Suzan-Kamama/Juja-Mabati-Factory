@@ -3,6 +3,7 @@ export default {
   content: [
     "./index.html",
     "./page2.html",
+    "index-b236d06a.js",
     "./src/**/*.{js,ts,jsx,tsx}",
     "./styles.css",
   ],
