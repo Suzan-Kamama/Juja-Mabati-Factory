@@ -15,8 +15,13 @@ export function initHeroSlider() {
       disableOnInteraction: false
     },
     loop: true,
-    autoHeight: false, // Ensures consistent height
-    spaceBetween: 0,  // Ensures no gaps between slides
+    on: {
+    slideChangeTransitionEnd: () => {
+      console.log('Slide transition completed');
+    },
+    resize: () => {
+      console.log('Swiper resized');
+    },
   });
 }
 
