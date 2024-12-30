@@ -204,7 +204,7 @@ ${s.message}
           <div>
             <h4 class="text-lg font-semibold mb-4">Contact Info</h4>
             <ul class="space-y-2">
-              <li>🕾 0769600200</li>
+              <li>📞 0769600200</li>
               <li>📧 gakurumuraguri@gmail.com</li>
               <li>📍 Kenyatta Road, next to Traqo Lounge</li>
               <li>📮 P.O. Box 57920, Nairobi, Kenya</li>
