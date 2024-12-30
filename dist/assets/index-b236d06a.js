@@ -96,7 +96,7 @@ Email: ${s.email}
 
 Message:
 ${s.message}
-    `.trim(),r=`mailto:gakurumuraguri@gmail.com?subject=Inquiry from ${encodeURIComponent(s.name)}&body=${encodeURIComponent(n)}`;window.location.href=r,t.reset()})}function Kt(){document.querySelector("#contact")&&(Xt(),Ut(),document.querySelectorAll(".contact-card").forEach(e=>{e.addEventListener("mouseenter",()=>{e.querySelector(".contact-icon").classList.add("animate-bounce")}),e.addEventListener("mouseleave",()=>{e.querySelector(".contact-icon").classList.remove("animate-bounce")})}))}function Jt(){return`
+    `.trim(),r=`mailto:jujamabatiltd@gmail.com?subject=Inquiry from ${encodeURIComponent(s.name)}&body=${encodeURIComponent(n)}`;window.location.href=r,t.reset()})}function Kt(){document.querySelector("#contact")&&(Xt(),Ut(),document.querySelectorAll(".contact-card").forEach(e=>{e.addEventListener("mouseenter",()=>{e.querySelector(".contact-icon").classList.add("animate-bounce")}),e.addEventListener("mouseleave",()=>{e.querySelector(".contact-icon").classList.remove("animate-bounce")})}))}function Jt(){return`
     <section id="contact" class="py-20 bg-gray-50">
       <div class="container mx-auto px-4">
         <h2 class="text-3xl md:text-4xl font-bold text-center mb-12">Contact Us</h2>
@@ -121,7 +121,7 @@ ${s.message}
                   </svg>
                 </div>
                 <h3 class="text-lg font-semibold text-center mb-2">Email</h3>
-                <a href="mailto:gakurumuraguri@gmail.com" class="text-blue-600 hover:text-blue-800 text-center block transition-colors break-all">gakurumuraguri@gmail.com</a>
+                <a href="mailto:jujamabatiltd@gmail.com" class="text-blue-600 hover:text-blue-800 text-center block transition-colors break-all">gakurumuraguri@gmail.com</a>
               </div>
 
               <div class="contact-card bg-white p-6 rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 transform hover:-translate-y-1">
@@ -205,7 +205,7 @@ ${s.message}
             <h4 class="text-lg font-semibold mb-4">Contact Info</h4>
             <ul class="space-y-2">
               <li>📞 0769600200</li>
-              <li>📧 gakurumuraguri@gmail.com</li>
+              <li>📧 jujamabatiltd@gmail.com</li>
               <li>📍 Kenyatta Road, next to Traqo Lounge</li>
               <li>📮 P.O. Box 57920, Nairobi, Kenya</li>
             </ul>
