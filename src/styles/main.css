@@ -14,12 +14,11 @@
   .mobile-menu-open .nav-link {
     @apply block w-full px-4 py-2;
   }
-}
 
 .hero-slider .swiper-pagination-bullet {
   @apply bg-white opacity-60;
-}
+  }
 
 .hero-slider .swiper-pagination-bullet-active {
   @apply opacity-100;
-}
+  }
