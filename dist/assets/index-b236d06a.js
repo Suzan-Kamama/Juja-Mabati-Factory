@@ -121,7 +121,7 @@ ${s.message}
                   </svg>
                 </div>
                 <h3 class="text-lg font-semibold text-center mb-2">Email</h3>
-                <a href="mailto:jujamabatiltd@gmail.com" class="text-blue-600 hover:text-blue-800 text-center block transition-colors break-all">gakurumuraguri@gmail.com</a>
+                <a href="mailto:jujamabatiltd@gmail.com" class="text-blue-600 hover:text-blue-800 text-center block transition-colors break-all">jujamabatiltd@gmail.com</a>
               </div>
 
               <div class="contact-card bg-white p-6 rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 transform hover:-translate-y-1">
